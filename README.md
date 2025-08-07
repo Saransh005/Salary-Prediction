@@ -2,7 +2,7 @@
 
 This repository hosts a machine learning-powered Streamlit web application that predicts salaries (in USD) based on job-related features.
 
-Project URL : https://salaryprediction-c2qcd4cwfnftblm7jthb79.streamlit.app/
+Project URL : https://salary-prediction-eajtgafpmnxqwozdtljhav.streamlit.app/
 ---
 
 ## 🔍 Overview
